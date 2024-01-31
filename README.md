@@ -1,5 +1,7 @@
 # CoreWebApp-MVC-TempMaster
 
+*Bu şablondan yola çıkarak projenizi geliştirebilir ve ek gereksinimleri ekleyebilirsiniz.
+
 --------------------------------------------------------------------
 
 İstenilen Task : 
